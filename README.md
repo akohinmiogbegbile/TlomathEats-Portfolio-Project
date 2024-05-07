@@ -40,10 +40,6 @@ Welcome to the development repository of our Food Delivery App! This app is buil
 - Secure and convenient payment processing using Stripe.
 - User authentication and authorization handled by Firebase.
 
-## Screenshots
-
-_(Include screenshots or GIFs of your app in action - optional)_
-
 ## Getting Started
 
 ### Prerequisites
@@ -99,8 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Disclaimer
 
 This app is still in development. Features and functionalities may change in future releases.
-
-```
-
-Feel free to customize this template based on your specific project details and preferences.
-```

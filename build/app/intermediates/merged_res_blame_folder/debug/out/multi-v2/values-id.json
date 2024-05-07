@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tilomathmarketplace.app-mergeDebugResources-93:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DAVE'S PC\\.gradle\\caches\\transforms-3\\72abdc59a47803764fc584355d0ce1ea\\transformed\\jetified-play-services-wallet-19.2.1\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "202,259",
+                        "endColumns": "56,73",
+                        "endOffsets": "258,332"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,77",
+                        "endOffsets": "111,189"
+                    }
+                }
+            ]
+        }
+    ]
+}

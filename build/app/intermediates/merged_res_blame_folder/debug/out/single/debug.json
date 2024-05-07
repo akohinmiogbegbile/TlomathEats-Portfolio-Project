@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.tilomathmarketplace.app-merged_res-95:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tilomathmarketplace.app-main-89:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tilomathmarketplace.app-merged_res-95:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.tilomathmarketplace.app-main-89:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.tilomathmarketplace.app-merged_res-95:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.tilomathmarketplace.app-main-89:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tilomathmarketplace.app-merged_res-95:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.tilomathmarketplace.app-main-89:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tilomathmarketplace.app-merged_res-95:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.tilomathmarketplace.app-main-89:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.tilomathmarketplace.app-merged_res-95:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.tilomathmarketplace.app-main-89:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
